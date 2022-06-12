@@ -46,8 +46,9 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // We have two variables; secret, and code.
-// 
-// 
+// the variable code is set to 123;
+// The varible secret will be different depending on how our conditonal statement is setup 
+// in the condiotnal statment if code === 123 secret would then be 'super' and code would then be multiplied by 2. 
 //
 
 //CODE
