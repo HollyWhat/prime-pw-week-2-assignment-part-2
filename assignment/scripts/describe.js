@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+//  There is a a variable called name that is set to "Dane".
+// There is then a condiotnal statement where if the name is = to "mary" then the console logs "Hi, mary!"
+// Otherwise it would the log "How do you do?"
+// In this scenario we would expect to see "How do you do?"
 
 //CODE
 /*
@@ -45,7 +45,7 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+// We have two variables; secret, and code.
 // 
 // 
 //
