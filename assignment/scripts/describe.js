@@ -71,10 +71,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
+// We have 3 varibles: isStudent, age, and zip. Followed by a codnitonal statement.
+// In the conditional our first condiotnal is if isStudent is true and the zip is less than 80000
+// then we would see the console.log("You're a student on the west coast!")
+// There are also a few else if statements that follows. 
+// We would expect our output to be "You're a student---" since it is the first statement that is true in our block of else if statements.
 // 
-// 
-// 
-//
 
 //CODE
 /*
