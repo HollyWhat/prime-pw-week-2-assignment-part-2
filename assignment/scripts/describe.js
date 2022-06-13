@@ -132,6 +132,13 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+
+// Code fix: First, the varibles need to be switched: colorOne should be lue and colorTwo should be red.
+//and then when the colors are mixed we need both colorOne and colorTwo to 'purple'
+// 
+
+
+
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
@@ -145,6 +152,13 @@ if (mix === true) {
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
+//
+
+//Code fix: Based of of the descrption we need to adjust the condiontal statement
+// instead of (temp > 39 || time >= 4) we should change that to an 'and' statement (temp > 39 && time >= 4) 
+// if we left the code as is the computer would read it as "if temp is > than 39 OR time >=4"
+
+
 
 /*
 let temp = 40;
@@ -155,9 +169,27 @@ if (temp > 39 || time >= 4) {
 }
 */
 
+
+
+
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
+
+//Code Fix: in this situation we need to adjust the conditonal statement  again 
+// the descripton for the code is that age needs to be greater than or equal to 21.
+// In the actaul code the conditional statement is minAge is less than or equal to age.
+//  We can change the condtional to:
+
+
+/* if( age >= minAge){
+   console.log("enter"); }
+    else{
+consoel.log( 'no entry');
+    }
+   */ 
+
+
 
 /*
 let age = 21;
